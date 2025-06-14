@@ -154,7 +154,7 @@ const TaxCalculator = () => {
             <div className="hidden md:flex items-center space-x-6">
               <span className="text-sm text-gray-600">FY {taxYear}</span>
               <span className="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">
-                🇮🇳 India
+                🇮🇳 japan
               </span>
             </div>
           </div>
